@@ -747,7 +747,8 @@ body.admin-mode .chat-msg-delete {
 .chat-msg-actions {
     display: none;
     position: absolute;
-    top: -35px;
+    bottom: -20px;
+    top: auto;
     background: var(--bg-card);
     border: 1px solid var(--border);
     border-radius: 8px;
